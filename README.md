@@ -24,6 +24,6 @@ ___
 [Numeros ingresados al cuadrado](https://youtu.be/XMpygTvBJDU)
 ___
 
-[Numeros ingresados al cuadrado](https://youtu.be/XMpygTvBJDU)
+
 
 
