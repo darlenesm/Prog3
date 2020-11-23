@@ -1,8 +1,9 @@
 # Shell Scripting, Piping, Standard I/O Streams
 ___
 
-### Los siguientes ejemplos estan basados en scripting y programas con el Lenguaje C.
-___
+### Los siguientes ejemplos estan basados en scripting y programas con el Lenguaje C:
+
+
 [Script con Hola "nombre"](https://youtu.be/BJRPXKnMRos)
 ___
 
