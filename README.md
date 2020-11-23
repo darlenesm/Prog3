@@ -2,7 +2,7 @@
 ___
 
 ### Los siguientes ejemplos estan basados en scripting y programas con el Lenguaje C.
-
+___
 [Script con Hola "nombre"](https://youtu.be/BJRPXKnMRos)
 ___
 
